@@ -1,2 +1,75 @@
-# Portfolio
-Central repository that serves as a portfolio, organized by languages and categories, with links to my programming projects.
+# 🚀 Project Portfolio
+
+Welcome to my portfolio!  
+I am **Dago Palmera**, a Systems Engineering student and aspiring developer.  
+This repository serves as a **central index** for my programming and technology projects, organized by categories and languages.
+
+My goal is to keep learning, experiment with different technologies, and showcase my progress on the path to becoming a full stack developer.
+
+---
+
+## 📂 Portfolio Structure
+
+Projects are organized by area and programming language.  
+You will find both individual and collaborative projects here.
+
+- ☕ **Java** – Data structures, algorithms, and simulations  
+- 🐍 **Python** – Algorithms, data analysis, and GUI applications  
+- 💻 **C++** – Algorithms and systems programming  
+- 🌐 **Web / Full Stack** – HTML, CSS, JavaScript, frameworks, and databases  
+- 📊 **Others** – Database projects, scripts, exercises, and explorations in new languages
+
+---
+
+## 🚀 Project Index
+
+- [Java Projects](#-java-projects)
+- [C++ Projects](#-c-projects)
+- [Python Projects](#-python-projects)
+- [Other Projects](#-other-projects)
+
+---
+
+## ☕ Java Projects
+
+- [BTree_Analizer](https://github.com/Dakarplay/BTree_Analizer) – Binary tree analyzer  
+- [BioSeqAlign](https://github.com/Dakarplay/BioSeqAlign) – DNA sequence alignment using dynamic programming  
+- [BlockchainSimulation](https://github.com/Dakarplay/BlockchainSimulation) – Basic blockchain simulation with linked lists  
+- *(More projects coming soon...)*
+
+---
+
+## 💻 C++ Projects
+
+- *(Projects in C++ will be uploaded soon...)*
+
+---
+
+## 🐍 Python Projects
+
+- *(Projects in Python will be uploaded soon...)*
+
+---
+
+## 📦 Other Projects
+
+- [GestionPQTS](https://github.com/Dakarplay/GestionPQTS) – POO project  
+- [Learning-Java-from-0](https://github.com/Dakarplay/Learning-Java-from-0) – Java practice exercises
+
+---
+
+✍️ *This index will grow over time as I upload more projects and explore new languages.*
+
+---
+
+## 🤝 Collaborations
+
+Some projects were developed as part of a team.  
+- My role and those of my teammates are detailed in each project's README.
+
+---
+
+## 📬 Contact
+
+- GitHub: [@Dakarplay](https://github.com/Dakarplay)  
+- LinkedIn: [linkedin.com/in/dagopalmera](https://www.linkedin.com/in/dagopalmera/)
