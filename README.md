@@ -23,10 +23,16 @@ You will find both individual and collaborative projects here.
 
 ## 🚀 Project Index
 
-- [Java Projects](#-java-projects)
-- [C++ Projects](#-c-projects)
-- [Python Projects](#-python-projects)
-- [Other Projects](#-other-projects)
+- [🚀 Project Portfolio](#-project-portfolio)
+  - [📂 Portfolio Structure](#-portfolio-structure)
+  - [🚀 Project Index](#-project-index)
+  - [☕ Java Projects](#-java-projects)
+  - [💻 C++ Projects](#-c-projects)
+  - [🐍 Python Projects](#-python-projects)
+  - [🌐 Web / Full Stack Projects](#-web--full-stack-projects)
+  - [📦 Other Projects](#-other-projects)
+  - [🤝 Collaborations](#-collaborations)
+  - [📬 Contact](#-contact)
 
 ---
 
@@ -48,6 +54,12 @@ You will find both individual and collaborative projects here.
 ## 🐍 Python Projects
 
 - *(Projects in Python will be uploaded soon...)*
+
+---
+
+## 🌐 Web / Full Stack Projects
+
+- [CalorSOS-App](https://github.com/Dakarplay/CalorSOS-App) – Full stack web application built with Python backend and React + Vite frontend
 
 ---
 
