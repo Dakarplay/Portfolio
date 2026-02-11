@@ -85,3 +85,4 @@ Some projects were developed as part of a team.
 
 - GitHub: [@Dakarplay](https://github.com/Dakarplay)  
 - LinkedIn: [linkedin.com/in/dagopalmera](https://www.linkedin.com/in/dagopalmera/)
+- Mail: dagopalmera1@gmail.com
